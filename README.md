@@ -8,6 +8,6 @@ MERN stack e-commerce with design and products of Walmart
 - Authentication system developed with JWT
 - Integration with Stripe Payments API
 
-Online project: https://wowmart.netlify.app
+Online project: https://wowmart.vercel.app
 
 Online API: https://wowmart.onrender.com/
