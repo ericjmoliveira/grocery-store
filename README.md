@@ -1,4 +1,4 @@
-# Wowmart
+# Grocery Store
 
 MERN stack e-commerce with design and products of Walmart
 
